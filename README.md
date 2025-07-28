@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello there ✌🏻, I'm Andrei Iliescu<br>An enthusiastic developer from Romania who just started his journey as a Python and web developer.<br><br>🎓 I’m currently learning Python, HTML5, CSS3 and JavaScript<br>📨 How to reach me andrey_iliescu@yahoo.com or andrei.iliescu13102000@gmail.com<br>⚡ Fun fact I have been practicing judo since 2012, and achieved the brown belt.
+![](https://d1w82usnq70pt2.cloudfront.net/wp-content/uploads/2023/06/star-wars-obi-wan-kenobi.gif)
+
+**I'm Andrei Iliescu**<br>An enthusiastic developer from Romania who just started his journey as a Python and web developer.<br><br>🎓 I’m currently learning Python, HTML5, CSS3 and JavaScript<br>📨 How to reach me andrey_iliescu@yahoo.com or andrei.iliescu13102000@gmail.com<br>⚡ Fun fact I have been practicing judo since 2012, and achieved the brown belt.
 
 
 ## 🌐 Socials:
