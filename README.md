@@ -137,7 +137,7 @@ class AboutMe:
 
 <h3 alihg="left">𝕍𝕚𝕖𝕨 𝕞𝕪 ℂ𝕍</h3>
 
-[![View CV](https://img.shields.io/badge/View_CV-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/ATS_CV_ANDREI_ILIESCU_EN.pdf)
+[![View CV](https://img.shields.io/badge/View_CV-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1Oqq3uxiByBqhF70rL2KPmM_aWmNsnKJt/view?usp=drive_link)
 
 <br>
 
