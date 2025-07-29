@@ -63,6 +63,7 @@ class AboutMe:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
 <br>
 
 
@@ -80,3 +81,10 @@ class AboutMe:
 
 <h2 align="left">🎓 𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟</h2>
 
+| Level of specialization       | Educational institution                   | Academic specialization                                                                          | Study Period    |
+| ----------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------- |
+| **Master's degree**           | **Bucharest Academy of Economic Studies** | **Tourism Business Administration**                                                              | **2022 — 2024** |
+| **Bachelor's Degree**         | **Bucharest Academy of Economic Studies** | **Business Administration in Commerce, Tourism, Services, Merchandising and Quality Management** | **2019 — 2022** |
+| **Baccalaureate Diploma**     | **"Hermes" Economic College, Bucharest**  | **Trade Activities Technician**                                                                  | **2015 — 2019** |
+
+<br>
