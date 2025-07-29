@@ -146,7 +146,7 @@ class AboutMe:
 
 <h3 alihg="left">𝕍𝕚𝕖𝕨 𝕞𝕪 ℂ𝕍</h3>
 
-[![View CV](https://img.shields.io/badge/View_CV-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1Oqq3uxiByBqhF70rL2KPmM_aWmNsnKJt/view?usp=drive_link)
+[![View CV](https://img.shields.io/badge/View_CV-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1LiTntApICDtTU4rdVN9zkXjziz68F7Is/view?usp=drive_link)
 
 <br>
 
