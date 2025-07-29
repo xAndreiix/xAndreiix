@@ -96,7 +96,7 @@ class AboutMe:
 
 | Level of Specialization       | Educational Institution                   | Academic Specialization                                                                          | Study Period    |
 | ----------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------- |
-| **Master's degree**           | **Bucharest Academy of Economic Studies** | **Tourism Business Administration**                                                              | **2022 — 2024** |
+| **Master's Degree**           | **Bucharest Academy of Economic Studies** | **Tourism Business Administration**                                                              | **2022 — 2024** |
 | **Bachelor's Degree**         | **Bucharest Academy of Economic Studies** | **Business Administration in Commerce, Tourism, Services, Merchandising and Quality Management** | **2019 — 2022** |
 | **Baccalaureate Diploma**     | **"Hermes" Economic College, Bucharest**  | **Trade Activities Technician**                                                                  | **2015 — 2019** |
 
