@@ -84,7 +84,7 @@ class AboutMe:
 
 | Job Position                  | Company                    | Field                         | Work Period           |
 | ----------------------------- | -------------------------- | ----------------------------- | --------------------- |
-| **Customer Service Agent**    | **Condec Consulting SRL**  | **Accountancy**               | **09/2019 — 04/2025** |
+| **Customer Service Agent**    | **Condec Consulting SRL**  | **Accountancy**               | **09/2020 — 04/2025** |
 
 <div align="center">
 <img alt="GIF" align="center" src="https://y.yarn.co/58bddecc-3057-4eb5-919d-9fa6ab73a236_text.gif" />
@@ -164,7 +164,7 @@ class AboutMe:
 <h2 align="left">💰 𝕀𝕗 𝕪𝕠𝕦 𝕨𝕒𝕟𝕥 𝕥𝕠 𝕤𝕦𝕡𝕡𝕠𝕣𝕥 𝕞𝕖 𝕚𝕟 𝕞𝕪 𝕛𝕠𝕦𝕣𝕟𝕖𝕪</h2>
 
 [![PayPal](https://img.shields.io/badge/PayPal-xAndreiix-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/xAndreiix)<br>
-[![Revolut](https://img.shields.io/badge/Revolut-xAndreiix-001B2E?style=for-the-badge&logoColor=white)](https://revolut.me/xAndreiix)
+[![Revolut](https://img.shields.io/badge/Revolut-xAndreiix-001B2E?style=for-the-badge&logoColor=white)](https://revolut.me/xandreiix)
 
 <br>
 
