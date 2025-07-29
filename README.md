@@ -138,17 +138,12 @@ class AboutMe:
 
 <br>
 
-<h2 align="left">✍️ ℝ𝕒𝕟𝕕𝕠𝕞 𝔻𝕖𝕧 ℚ𝕦𝕠𝕥𝕖</h2>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-<br>
-
 <h2 align="left">🔝 𝕋𝕠𝕡 ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕖𝕕 ℝ𝕖𝕡𝕠</h2>
 
 ![](https://github-contributor-stats.vercel.app/api?username=xAndreiix&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
 <br>
 
----
-[![](https://visitcount.itsvg.in/api?id=xAndreiix&icon=1&color=0)](https://visitcount.itsvg.in)
+<h2 align="left">💰 𝕀𝕗 𝕪𝕠𝕦 𝕨𝕒𝕟𝕥 𝕥𝕠 𝕤𝕦𝕡𝕡𝕠𝕣𝕥 𝕞𝕖 𝕚𝕟 𝕞𝕪 𝕛𝕠𝕦𝕣𝕟𝕖𝕪</h2>
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/xAndreiix) 
