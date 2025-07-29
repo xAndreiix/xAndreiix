@@ -36,9 +36,9 @@ class AboutMe:
 <h3 alihg="left">ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘 𝕝𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <h3 alihg="left">𝔽𝕣𝕠𝕟𝕥-𝔼𝕟𝕕 𝔽𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜𝕤</h3>
 
@@ -51,12 +51,25 @@ class AboutMe:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 <h3 alihg="left">𝔻𝕒𝕥𝕒𝕓𝕒𝕤𝕖 𝕤𝕪𝕤𝕥𝕖𝕞𝕤</h3>
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<h3 alihg="left">𝕄𝕊 𝕆𝕗𝕗𝕚𝕔𝕖 𝕊𝕦𝕡𝕡𝕠𝕣𝕥</h3>
+
+![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Outlook](https://img.shields.io/badge/Outlook-0072C6?style=for-the-badge&logo=microsoftoutlook&logoColor=white)
+
+<h3 alihg="left">ℂ𝕠𝕝𝕝𝕒𝕓𝕠𝕣𝕒𝕥𝕚𝕠𝕟 𝕋𝕠𝕠𝕝𝕤</h3>
+
+![Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 <h3 alihg="left">𝔾𝕀𝕋 𝕍𝕖𝕣𝕤𝕚𝕠𝕟 ℂ𝕠𝕟𝕥𝕣𝕠𝕝</h3>
 
