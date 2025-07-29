@@ -2,11 +2,11 @@
 <img alt="GIF" align="center" src="https://d1w82usnq70pt2.cloudfront.net/wp-content/uploads/2023/06/star-wars-obi-wan-kenobi.gif" />
 </div>
 
-<h1 align="center">𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝔾𝕚𝕥ℍ𝕦𝕓 𝕡𝕣𝕠𝕗𝕚𝕝𝕖</h1>
+<h1 align="center">👋🏻 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝔾𝕚𝕥ℍ𝕦𝕓 𝕡𝕣𝕠𝕗𝕚𝕝𝕖 👋🏻</h1>
 
 <br>
 
-<h2 align="left">𝔾𝕖𝕥 𝕥𝕠 𝕜𝕟𝕠𝕨 𝕞𝕖 𝕓𝕖𝕥𝕥𝕖𝕣</h2>
+<h2 align="left">🙋🏻‍♂️ 𝔾𝕖𝕥 𝕥𝕠 𝕜𝕟𝕠𝕨 𝕞𝕖 𝕓𝕖𝕥𝕥𝕖𝕣</h2>
 
 ```python
 class AboutMe:
@@ -31,7 +31,7 @@ class AboutMe:
 
 <br>
 
-<h2 align="left">𝕊𝕜𝕚𝕝𝕝𝕤</h2>
+<h2 align="left">💻 𝕊𝕜𝕚𝕝𝕝𝕤</h2>
 
 <h3 alihg="left">ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘 𝕝𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤</h3>
 
@@ -67,7 +67,7 @@ class AboutMe:
 <br>
 
 
-<h2 align="left">𝕎𝕠𝕣𝕜 𝔼𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕔𝕖</h2>
+<h2 align="left">💼 𝕎𝕠𝕣𝕜 𝔼𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕔𝕖</h2>
 
 | Job Position                  | Company                    | Field                         | Work Period           |
 | ----------------------------- | -------------------------- | ----------------------------- | --------------------- |
@@ -86,5 +86,15 @@ class AboutMe:
 | **Master's degree**           | **Bucharest Academy of Economic Studies** | **Tourism Business Administration**                                                              | **2022 — 2024** |
 | **Bachelor's Degree**         | **Bucharest Academy of Economic Studies** | **Business Administration in Commerce, Tourism, Services, Merchandising and Quality Management** | **2019 — 2022** |
 | **Baccalaureate Diploma**     | **"Hermes" Economic College, Bucharest**  | **Trade Activities Technician**                                                                  | **2015 — 2019** |
+
+<br>
+
+<h2 align="left">📜 ℂ𝕠𝕦𝕣𝕤𝕖𝕤</h2>
+
+| Cours Name                                             | Platform / Institution                                     | Study Period           |
+| ------------------------------------------------------ | ---------------------------------------------------------- | ---------------------- |
+| **Python Developer from Scratch**                      | **Software Development Academy Romania**                   | **2025 — In progress** |
+| **The Complete Full-Stack Web Developer Bootcamp**     | **Udemy (Instructor: Dr. Angela Yu - London App Brewery)** | **2025 — In progress** |
+| **100 Days of Code: The Complete Python Pro Bootcamp** | **Udemy (Instructor: Dr. Angela Yu - London App Brewery)** | **2025 — In progress** |
 
 <br>
