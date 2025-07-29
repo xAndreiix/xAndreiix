@@ -146,4 +146,5 @@ class AboutMe:
 
 <h2 align="left">💰 𝕀𝕗 𝕪𝕠𝕦 𝕨𝕒𝕟𝕥 𝕥𝕠 𝕤𝕦𝕡𝕡𝕠𝕣𝕥 𝕞𝕖 𝕚𝕟 𝕞𝕪 𝕛𝕠𝕦𝕣𝕟𝕖𝕪</h2>
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/xAndreiix) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/xAndreiix)
+[![Revolut](https://img.shields.io/badge/Revolut-xAndreiix-001B2E?style=for-the-badge&logoColor=white)](https://revolut.me/xandreiix)
