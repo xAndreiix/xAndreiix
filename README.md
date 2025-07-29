@@ -2,7 +2,7 @@
 <img alt="GIF" align="center" src="https://d1w82usnq70pt2.cloudfront.net/wp-content/uploads/2023/06/star-wars-obi-wan-kenobi.gif" />
 </div>
 
-<h1 align="center">👋🏻 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝔾𝕚𝕥ℍ𝕦𝕓 𝕡𝕣𝕠𝕗𝕚𝕝𝕖 👋🏻</h1>
+<h1 align="center">✌🏻 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝔾𝕚𝕥ℍ𝕦𝕓 𝕡𝕣𝕠𝕗𝕚𝕝𝕖 ✌🏻</h1>
 
 <br>
 
@@ -103,24 +103,24 @@ class AboutMe:
 
 <h3 alihg="left">ℙ𝕖𝕣𝕤𝕠𝕟𝕒𝕝 𝕎𝕖𝕓𝕤𝕚𝕥𝕖 ℙ𝕠𝕣𝕥𝕗𝕠𝕝𝕚𝕠</h3>
 
-[![Website](https://img.shields.io/badge/Website-portfoliu-gold?logo=about-dot-me&logoColor=white)]()
+[![Website](https://img.shields.io/badge/Website-PORTFOLIO-gold?style=for-the-badge&logo=about-dot-me&logoColor=white)]()
 
 <h3 alihg="left">𝕊𝕠𝕔𝕚𝕒𝕝 𝕄𝕖𝕕𝕚𝕒</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-iliescu-aa7910214)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AndreiIliescu11)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andreii_iliescu)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/xAndreiix)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30785131/xandreiix)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@xandreiix)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AndreiIliescu13102000)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/xandreiix)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@xandreiix8048)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-iliescu-aa7910214)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AndreiIliescu11)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/andreii_iliescu)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/xAndreiix)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30785131/xandreiix)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@xandreiix)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/AndreiIliescu13102000)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/xandreiix)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@xandreiix8048)
 
 <h3 alihg="left">𝔼-𝕄𝕒𝕚𝕝</h3>
 
-[![Email](https://img.shields.io/badge/Email-andrey_iliescu%40yahoo.com-blueviolet)](mailto:andrey_iliescu@yahoo.com)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrei.iliescu13102000@gmail.com) 
+[![Email Yahoo](https://img.shields.io/badge/Email-andrey_iliescu%40yahoo.com-6001D2?style=for-the-badge&logoColor=white)](mailto:andrey_iliescu@yahoo.com)<br>
+[![Email Gmail](https://img.shields.io/badge/Gmail-andrei.iliescu13102000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrei.iliescu13102000@gmail.com)
 
 <br>
 
@@ -146,5 +146,13 @@ class AboutMe:
 
 <h2 align="left">💰 𝕀𝕗 𝕪𝕠𝕦 𝕨𝕒𝕟𝕥 𝕥𝕠 𝕤𝕦𝕡𝕡𝕠𝕣𝕥 𝕞𝕖 𝕚𝕟 𝕞𝕪 𝕛𝕠𝕦𝕣𝕟𝕖𝕪</h2>
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/xAndreiix)
-[![Revolut](https://img.shields.io/badge/Revolut-xAndreiix-001B2E?style=for-the-badge&logoColor=white)](https://revolut.me/xandreiix)
+[![PayPal](https://img.shields.io/badge/PayPal-xAndreiix-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/xAndreiix)<br>
+[![Revolut](https://img.shields.io/badge/Revolut-xAndreiix-001B2E?style=for-the-badge&logoColor=white)](https://revolut.me/xAndreiix)
+
+<br>
+
+<h1 align="center">👋🏻 𝕋𝕙𝕒𝕟𝕜 𝕪𝕠𝕦 𝕗𝕠𝕣 𝕤𝕥𝕠𝕡𝕡𝕚𝕟𝕘 𝕓𝕪! 👋🏻</h1>
+
+<div align="center">
+<img alt="GIF" align="center" src="https://media1.tenor.com/m/wPRS-ZXgVYcAAAAC/bye-bye.gif" />
+</div>
