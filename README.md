@@ -122,6 +122,10 @@ class AboutMe:
 [![Email Yahoo](https://img.shields.io/badge/Email-andrey_iliescu%40yahoo.com-6001D2?style=for-the-badge&logoColor=white)](mailto:andrey_iliescu@yahoo.com)<br>
 [![Email Gmail](https://img.shields.io/badge/Gmail-andrei.iliescu13102000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrei.iliescu13102000@gmail.com)
 
+<h3 alihg="left">𝕍𝕚𝕖𝕨 𝕞𝕪 ℂ𝕍</h3>
+
+[![View CV](https://img.shields.io/badge/View_CV-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/ATS_CV_ANDREI_ILIESCU_EN.pdf)
+
 <br>
 
 <h2 align="left">📊 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥𝕤</h2>
