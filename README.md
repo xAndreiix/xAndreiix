@@ -98,3 +98,26 @@ class AboutMe:
 | **100 Days of Code: The Complete Python Pro Bootcamp** | **Udemy (Instructor: Dr. Angela Yu - London App Brewery)** | **2025 — In progress** |
 
 <br>
+
+<h2 align="left">🌐 𝕊𝕠𝕔𝕚𝕒𝕝𝕤</h2>
+
+<h3 alihg="left">ℙ𝕖𝕣𝕤𝕠𝕟𝕒𝕝 𝕎𝕖𝕓𝕤𝕚𝕥𝕖 ℙ𝕠𝕣𝕥𝕗𝕠𝕝𝕚𝕠</h3>
+
+[![Website](https://img.shields.io/badge/Website-portfoliu-gold?logo=about-dot-me&logoColor=white)]()
+
+<h3 alihg="left">𝕊𝕠𝕔𝕚𝕒𝕝 𝕄𝕖𝕕𝕚𝕒</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-iliescu-aa7910214)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AndreiIliescu11)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andreii_iliescu)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/xAndreiix)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30785131/xandreiix)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@xandreiix)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AndreiIliescu13102000)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/xandreiix)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@xandreiix8048)
+
+<h3 alihg="left">𝔼-𝕄𝕒𝕚𝕝</h3>
+
+[![Email](https://img.shields.io/badge/Email-andrey_iliescu%40yahoo.com-blueviolet)](mailto:andrey_iliescu@yahoo.com)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrei.iliescu13102000@gmail.com) 
