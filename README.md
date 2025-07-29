@@ -125,7 +125,7 @@ class AboutMe:
 
 <h3 alihg="left">ℙ𝕖𝕣𝕤𝕠𝕟𝕒𝕝 𝕎𝕖𝕓𝕤𝕚𝕥𝕖 ℙ𝕠𝕣𝕥𝕗𝕠𝕝𝕚𝕠</h3>
 
-[![Website](https://img.shields.io/badge/Website-PORTFOLIO-gold?style=for-the-badge&logo=about-dot-me&logoColor=white)]()
+[![Website](https://img.shields.io/badge/Website-PORTFOLIO-gold?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://xandreiix.github.io/Andrei-Iliescu-Portfolio/)
 
 <h3 alihg="left">𝕊𝕠𝕔𝕚𝕒𝕝 𝕄𝕖𝕕𝕚𝕒</h3>
 
