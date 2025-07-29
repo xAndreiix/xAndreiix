@@ -99,7 +99,7 @@ class AboutMe:
 
 <br>
 
-<h2 align="left">🌐 𝕊𝕠𝕔𝕚𝕒𝕝𝕤</h2>
+<h2 align="left">🌐 𝔾𝕖𝕥 𝕚𝕟 𝕋𝕠𝕦𝕔𝕙 𝕨𝕚𝕥𝕙 𝕄𝕖</h2>
 
 <h3 alihg="left">ℙ𝕖𝕣𝕤𝕠𝕟𝕒𝕝 𝕎𝕖𝕓𝕤𝕚𝕥𝕖 ℙ𝕠𝕣𝕥𝕗𝕠𝕝𝕚𝕠</h3>
 
