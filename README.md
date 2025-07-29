@@ -125,7 +125,10 @@ class AboutMe:
 
 <h3 alihg="left">𝔻𝕠𝕨𝕟𝕝𝕠𝕒𝕕 𝕞𝕪 ℂ𝕍</h3>
 
-[![Download CV](https://img.shields.io/badge/Download_CV-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/ATS_CV_ANDREI_ILIESCU_EN.pdf)
+<a href="/assets/ATS_CV_ANDREI_ILIESCU_EN.pdf" download>
+<img src="https://img.shields.io/badge/Download_CV-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+</a>
+
 
 <br>
 
