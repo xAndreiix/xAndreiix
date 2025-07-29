@@ -1,30 +1,47 @@
-# 💫 About Me:
-![](https://d1w82usnq70pt2.cloudfront.net/wp-content/uploads/2023/06/star-wars-obi-wan-kenobi.gif)
+<div align="center">
+<img alt="GIF" align="center" src="https://d1w82usnq70pt2.cloudfront.net/wp-content/uploads/2023/06/star-wars-obi-wan-kenobi.gif" />
+</div>
 
-**I'm Andrei Iliescu**<br>An enthusiastic developer from Romania who just started his journey as a Python and web developer.<br><br>🎓 I’m currently learning Python, HTML5, CSS3 and JavaScript<br>📨 How to reach me andrey_iliescu@yahoo.com or andrei.iliescu13102000@gmail.com<br>⚡ Fun fact I have been practicing judo since 2012, and achieved the brown belt.
+<h1 align="center">𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝔾𝕚𝕥ℍ𝕦𝕓 𝕡𝕣𝕠𝕗𝕚𝕝𝕖</h1>
+
+<br>
+
+<h2 align="left">𝔾𝕖𝕥 𝕥𝕠 𝕜𝕟𝕠𝕨 𝕞𝕖 𝕓𝕖𝕥𝕥𝕖𝕣</h2>
+
+```python
+class AboutMe:
+    def __init__(self, name, age, location):
+        self.name = "𝒜𝓃𝒹𝓇𝑒𝒾 𝐼𝓁𝒾𝑒𝓈𝒸𝓊"
+        self.age = "𝟤𝟦 𝓎𝑒𝒶𝓇𝓈 𝑜𝓁𝒹"
+        self.location = "𝐵𝓊𝒸𝒽𝒶𝓇𝑒𝓈𝓉, 𝑅𝑜𝓂𝒶𝓃𝒾𝒶"
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AndreiIliescu13102000) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andreii_iliescu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-iliescu-aa7910214) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/xAndreiix) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30785131/xandreiix) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@xandreiix) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/xandreiix) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AndreiIliescu11) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@xandreiix8048) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrey_iliescu@yahoo.com) 
+    def hobbies(self):
+        programming = "𝐼’𝓂 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓁𝑒𝒶𝓇𝓃𝒾𝓃𝑔 𝒫𝓎𝓉𝒽𝑜𝓃, 𝐻𝒯𝑀𝐿𝟧, 𝒞𝒮𝒮𝟥 𝒶𝓃𝒹 𝒥𝒶𝓋𝒶𝒮𝒸𝓇𝒾𝓅𝓉."
+        judo = "𝐼 𝒽𝒶𝓋𝑒 𝒷𝑒𝑒𝓃 𝓅𝓇𝒶𝒸𝓉𝒾𝒸𝒾𝓃𝑔 𝒿𝓊𝒹𝑜 𝓈𝒾𝓃𝒸𝑒 𝟤𝟢𝟣𝟤, 𝒶𝓃𝒹 𝒶𝒸𝒽𝒾𝑒𝓋𝑒𝒹 𝓉𝒽𝑒 𝒷𝓇𝑜𝓌𝓃 𝒷𝑒𝓁𝓉."
+        travel = "𝐼 𝑒𝓃𝒿𝑜𝓎 𝓉𝓇𝒶𝓋𝑒𝓁𝒾𝓃𝑔 𝒶𝓃𝒹 𝒹𝒾𝓈𝒸𝑜𝓋𝑒𝓇𝒾𝓃𝑔 𝓃𝑒𝓌 𝓅𝓁𝒶𝒸𝑒𝓈, 𝓅𝑒𝑜𝓅𝓁𝑒, 𝒶𝓃𝒹 𝒸𝓊𝓁𝓉𝓊𝓇𝑒𝓈."
+        japan = """𝐼 𝒽𝒶𝓋𝑒 𝒶 𝒹𝑒𝑒𝓅 𝒾𝓃𝓉𝑒𝓇𝑒𝓈𝓉 𝒾𝓃 𝒥𝒶𝓅𝒶𝓃𝑒𝓈𝑒 𝒸𝓊𝓁𝓉𝓊𝓇𝑒, 𝒻𝓇𝑜𝓂 𝒾𝓉𝓈 𝓇𝑒𝒻𝒾𝓃𝑒𝒹 𝒶𝓇𝒸𝒽𝒾𝓉𝑒𝒸𝓉𝓊𝓇𝑒 𝒶𝓃𝒹 𝓂𝒾𝓃𝒾𝓂𝒶𝓁𝒾𝓈𝓉 𝒹𝑒𝓈𝒾𝑔𝓃 𝓉𝑜
+                        𝒾𝓉𝓈 𝓉𝓇𝒶𝒹𝒾𝓉𝒾𝑜𝓃𝒶𝓁 𝒸𝓊𝓈𝓉𝑜𝓂𝓈, 𝓋𝒶𝓁𝓊𝑒𝓈, 𝒶𝓃𝒹 𝓌𝒶𝓎 𝑜𝒻 𝓁𝒾𝒻𝑒."""
+        game = "𝐼𝓃 𝓂𝓎 𝒻𝓇𝑒𝑒 𝓉𝒾𝓂𝑒, 𝐼 𝓁𝒾𝓀𝑒 𝓉𝑜 𝓅𝓁𝒶𝓎 𝓋𝒾𝒹𝑒𝑜 𝑔𝒶𝓂𝑒𝓈, 𝑒𝓍𝓅𝓁𝑜𝓇𝑒 𝒻𝒶𝓃𝓉𝒶𝓈𝓎 𝓌𝑜𝓇𝓁𝒹𝓈, 𝒶𝓃𝒹 𝑒𝓃𝒿𝑜𝓎 𝒶 𝑔𝑜𝑜𝒹 𝓈𝓉𝑜𝓇𝓎."
+```
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xAndreiix&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=xAndreiix&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xAndreiix&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+<img alt="GIF" align="center" src="https://tenor.com/ro/view/satoru-gojo---correndo-gif-3542481902885275990.gif" />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xAndreiix&theme=vision-friendly-dark&no-frame=false&no-bg=false&margin-w=4)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=xAndreiix&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2 align="left">𝕎𝕠𝕣𝕜 𝔼𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕔𝕖</h2>
 
----
-[![](https://visitcount.itsvg.in/api?id=xAndreiix&icon=1&color=0)](https://visitcount.itsvg.in)
+| Job Position                  | Company                    | Field                         | Work Period           |
+| ----------------------------- | -------------------------- | ----------------------------- | --------------------- |
+| **Customer Service Agent**    | **Condec Consulting SRL**  | **Accountancy**               | **09/2019 — 04/2025** |
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/xAndreiix) 
+<div align="center">
+<img alt="GIF" align="center" src="https://y.yarn.co/58bddecc-3057-4eb5-919d-9fa6ab73a236_text.gif" />
+</div>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+<h2 align="left">🎓 𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟</h2>
+
