@@ -81,7 +81,7 @@ class AboutMe:
 
 <h2 align="left">🎓 𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟</h2>
 
-| Level of specialization       | Educational institution                   | Academic specialization                                                                          | Study Period    |
+| Level of Specialization       | Educational Institution                   | Academic Specialization                                                                          | Study Period    |
 | ----------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------- |
 | **Master's degree**           | **Bucharest Academy of Economic Studies** | **Tourism Business Administration**                                                              | **2022 — 2024** |
 | **Bachelor's Degree**         | **Bucharest Academy of Economic Studies** | **Business Administration in Commerce, Tourism, Services, Merchandising and Quality Management** | **2019 — 2022** |
@@ -121,3 +121,34 @@ class AboutMe:
 
 [![Email](https://img.shields.io/badge/Email-andrey_iliescu%40yahoo.com-blueviolet)](mailto:andrey_iliescu@yahoo.com)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrei.iliescu13102000@gmail.com) 
+
+<br>
+
+<h2 align="left">📊 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥𝕤</h2>
+
+![](https://github-readme-stats.vercel.app/api?username=xAndreiix&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=xAndreiix&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xAndreiix&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br>
+
+<h2 align="left">🏆 𝔾𝕚𝕥ℍ𝕦𝕓 𝕋𝕣𝕠𝕡𝕙𝕚𝕖𝕤</h2>
+
+![](https://github-profile-trophy.vercel.app/?username=xAndreiix&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
+
+<br>
+
+<h2 align="left">✍️ ℝ𝕒𝕟𝕕𝕠𝕞 𝔻𝕖𝕧 ℚ𝕦𝕠𝕥𝕖</h2>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+<br>
+
+<h2 align="left">🔝 𝕋𝕠𝕡 ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕖𝕕 ℝ𝕖𝕡𝕠</h2>
+
+![](https://github-contributor-stats.vercel.app/api?username=xAndreiix&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+
+<br>
+
+---
+[![](https://visitcount.itsvg.in/api?id=xAndreiix&icon=1&color=0)](https://visitcount.itsvg.in)
