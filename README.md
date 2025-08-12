@@ -33,7 +33,7 @@ class AboutMe:
 
 <h2 align="left">💻 𝕊𝕜𝕚𝕝𝕝𝕤</h2>
 
-<h3 alihg="left">ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘 𝕝𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤</h3>
+<h3 alihg="left">ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -53,7 +53,7 @@ class AboutMe:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-<h3 alihg="left">𝔻𝕒𝕥𝕒𝕓𝕒𝕤𝕖 𝕤𝕪𝕤𝕥𝕖𝕞𝕤</h3>
+<h3 alihg="left">𝔻𝕒𝕥𝕒𝕓𝕒𝕤𝕖 𝕊𝕪𝕤𝕥𝕖𝕞𝕤</h3>
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
