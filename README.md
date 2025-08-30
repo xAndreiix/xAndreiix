@@ -71,7 +71,7 @@ class AboutMe:
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-<h3 alihg="left">𝔾𝕀𝕋 𝕍𝕖𝕣𝕤𝕚𝕠𝕟 ℂ𝕠𝕟𝕥𝕣𝕠𝕝</h3>
+<h3 alihg="left">𝕍𝕖𝕣𝕤𝕚𝕠𝕟 ℂ𝕠𝕟𝕥𝕣𝕠𝕝</h3>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
