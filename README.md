@@ -36,7 +36,7 @@ class AboutMe:
 <h3 alihg="left">ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -49,14 +49,14 @@ class AboutMe:
 <h3 alihg="left">𝔹𝕒𝕔𝕜-𝔼𝕟𝕕 𝔽𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜𝕤</h3>
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+<!-- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 <h3 alihg="left">𝔻𝕒𝕥𝕒𝕓𝕒𝕤𝕖 𝕊𝕪𝕤𝕥𝕖𝕞𝕤</h3>
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) -->
 
 <h3 alihg="left">𝕄𝕊 𝕆𝕗𝕗𝕚𝕔𝕖 𝕊𝕦𝕡𝕡𝕠𝕣𝕥</h3>
 
@@ -75,7 +75,7 @@ class AboutMe:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+<!-- ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) -->
 
 <br>
 
@@ -114,10 +114,13 @@ class AboutMe:
 
 <h2 align="left">📃 ℂ𝕖𝕣𝕥𝕚𝕗𝕚𝕔𝕒𝕥𝕖𝕤</h2>
 
-[![Certificate](https://img.shields.io/badge/EXCEL-CERTIFICATE-green?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://drive.google.com/file/d/1jtVpOTcrNT0CcLCN3bjgEoXb1_zvITOp/view?usp=drive_link)
+[![Certificate](https://img.shields.io/badge/EXCEL-CERTIFICATE-dark_green?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://drive.google.com/file/d/1jtVpOTcrNT0CcLCN3bjgEoXb1_zvITOp/view?usp=drive_link)
 [![Certificate](https://img.shields.io/badge/DIGITAL-COMPETENCES-cyan?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://drive.google.com/file/d/1cn8xWFjPh2XyYY6JygmSFaobJmLtSoAU/view?usp=drive_link)
 [![Certificate](https://img.shields.io/badge/PYTHON-CERTIFICATE-blue?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://drive.google.com/file/d/16-JYJ4Pz8AevMgTDE8HSac0sq9b18WFu/view?usp=drive_link)
-[![Certificate](https://img.shields.io/badge/JAVASCRIPT-CERTIFICATE-yellow?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://drive.google.com/file/d/1WDfDQmNRTMXYnKky16k0VeY5x6oojPhA/view?usp=drive_link)
+<!-- [![Certificate](https://img.shields.io/badge/JAVASCRIPT-CERTIFICATE-yellow?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://drive.google.com/file/d/1WDfDQmNRTMXYnKky16k0VeY5x6oojPhA/view?usp=drive_link)
+[![Certificate](https://img.shields.io/badge/NODE-CERTIFICATE-green?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://drive.google.com/file/d/1Qlh5dks1cUWz6hSvK5RGkEArJ1O55Bmd/view?usp=drive_link)
+[![Certificate](https://img.shields.io/badge/SQL-CERTIFICATE-orange?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://drive.google.com/file/d/1vebHu2trP432A7fuAxEcC5R4eXBZAGI5/view?usp=drive_link) -->
+[![Certificate](https://img.shields.io/badge/EXPRESSOFT-CERTIFICATE-red?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://drive.google.com/file/d/121MxfbCWFBpmOfaNe-IhipYWTcjwODya/view?usp=drive_link)
 
 <br>
 
@@ -139,13 +142,13 @@ class AboutMe:
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/xandreiix)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@xandreiix8048)
 
-<h3 alihg="left">𝔼-𝕄𝕒𝕚𝕝</h3>
+<h3 alihg="left">𝔹𝕦𝕤𝕚𝕟𝕖𝕤𝕤 𝔼-𝕄𝕒𝕚𝕝</h3>
 
 [![Email Outlook](https://img.shields.io/badge/Outlook-andrei.iliescu13102000%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:andrei.iliescu13102000@outlook.com)
 
 <h3 alihg="left">𝕍𝕚𝕖𝕨 𝕞𝕪 ℂ𝕍</h3>
 
-[![View CV](https://img.shields.io/badge/View_CV-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1LiTntApICDtTU4rdVN9zkXjziz68F7Is/view?usp=drive_link)
+[![View CV](https://img.shields.io/badge/View_CV-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1T4FkXCfXqxpjwEfb9UUVfYJavS6FSSHh/view?usp=drive_link)
 
 <br>
 
