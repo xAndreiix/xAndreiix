@@ -58,7 +58,7 @@ class AboutMe:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) -->
 
-<h3 alihg="left">𝕄𝕊 𝕆𝕗𝕗𝕚𝕔𝕖 𝕊𝕦𝕡𝕡𝕠𝕣𝕥</h3>
+<h3 alihg="left">𝕄𝕚𝕔𝕣𝕠𝕤𝕠𝕗𝕥 𝕆𝕗𝕗𝕚𝕔𝕖 𝕊𝕦𝕡𝕡𝕠𝕣𝕥</h3>
 
 ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
